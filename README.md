@@ -3,4 +3,7 @@ Path Of Exile 3.9 변형리그에 등장하는 테인 옥타비우스 캐릭터�
 
 본 언리얼 프로젝트는 Substance 플러그인이 사용되었습니다.
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=YkI7izDwaOE" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Tane Octavius](https://img.youtube.com/vi/YkI7izDwaOE/0.jpg)](https://www.youtube.com/watch?v=YkI7izDwaOE "Tane Octavius")
+
+유튜브 링크 
+- https://www.youtube.com/embed/YkI7izDwaOE
