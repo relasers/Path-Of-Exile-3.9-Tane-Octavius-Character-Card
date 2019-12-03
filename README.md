@@ -2,3 +2,5 @@
 Path Of Exile 3.9 변형리그에 등장하는 테인 옥타비우스 캐릭터의 캐릭터카드를 언리얼 엔진에서 구현한 프로젝트입니다.
 
 본 언리얼 프로젝트는 Substance 플러그인이 사용되었습니다.
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=YkI7izDwaOE" frameborder="0" gesture="media" allowfullscreen=""></iframe>
