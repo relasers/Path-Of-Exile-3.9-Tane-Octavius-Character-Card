@@ -7,3 +7,6 @@ Path Of Exile 3.9 변형리그에 등장하는 테인 옥타비우스 캐릭터�
 
 유튜브 링크 
 - https://www.youtube.com/embed/YkI7izDwaOE
+
+자세한 제작 과정은 아래 블로그 포스트에서 확인하실 수 있습니다
+- https://holdimprovae.blogspot.com/2019/11/studyunrealartmaterialshader-poe-39.html
